@@ -1,0 +1,78 @@
+
+
+Version:	3.50
+CmdLine:	I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	I:\Exphibition of Wonders\calendar_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = E:\Java\
+Substitute:	PATH = G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+JRE paths:	E:\Java\;G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+Check launcher:	E:\Java\bin\javaw.exe (OK)
+Version string: 1.008.000_402 / 64-Bit (OK)
+Launcher:	E:\Java\bin\javaw.exe
+Launcher args:	-jar "I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe"
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	I:\Exphibition of Wonders\calendar_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = E:\Java\
+Substitute:	PATH = G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+JRE paths:	E:\Java\;G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+Check launcher:	E:\Java\bin\javaw.exe (OK)
+Version string: 1.008.000_402 / 64-Bit (OK)
+Launcher:	E:\Java\bin\javaw.exe
+Launcher args:	-jar "I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe"
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	I:\Exphibition of Wonders\calendar_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-21
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_009 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe"
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	I:\Exphibition of Wonders\calendar_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = E:\Java\
+Substitute:	PATH = G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+JRE paths:	E:\Java\;G:\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;E:\Java\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Microsoft VS Code\Scripts\;E:\Microsoft VS Code\;C:\Users\olivi\AppData\Local\Programs\Python\Launcher\;C:\Users\olivi\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;;C:\Users\olivi\.dotnet\tools;E:\Java\\bin
+Check launcher:	E:\Java\bin\javaw.exe (OK)
+Version string: 1.008.000_402 / 64-Bit (OK)
+Launcher:	E:\Java\bin\javaw.exe
+Launcher args:	-jar "I:\Exphibition of Wonders\calendar_exe\Custom Planner Project.exe"
+Args length:	72/32768 chars
+Exit code:	0
