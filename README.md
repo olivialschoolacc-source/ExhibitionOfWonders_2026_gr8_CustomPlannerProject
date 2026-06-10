@@ -5,3 +5,6 @@ Self-developed
 
 Grade 8, age 14, 4 years of coding experience (based on current day 2026)
 Still a learning developer ^^
+
+JDK-21 REQUIRED TO RUN EXE!!
+install from https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
