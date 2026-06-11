@@ -11,11 +11,16 @@ install from https://www.oracle.com/java/technologies/javase/jdk21-archive-downl
 
 No JDK required for calendar_exe_with_runtime
 
-How to navigate:
+**How to navigate:**
+
   open in code editor:
     in code editor navigate to [main] > [MainPage.java] (personally I used fernflower decompiler in VS Code)
+    
+    
   calendar_exe folder:
     [calendar_exe] > [CalendarApp.exe] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
+
+    
   calendar_exe_with_runtime folder:
     for jar: [calendar_exe_with_runtime] > [CalendarApp.jar] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
     for exe: [calendar_exe_with_runtime] > [Calendar App] > [CalendarApp.exe] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
