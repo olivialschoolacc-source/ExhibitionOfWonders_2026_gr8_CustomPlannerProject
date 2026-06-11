@@ -22,5 +22,5 @@ No JDK required for calendar_exe_with_runtime
 
     
   calendar_exe_with_runtime folder:
-    for jar: [calendar_exe_with_runtime] > [CalendarApp.jar] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
-    for exe: [calendar_exe_with_runtime] > [Calendar App] > [CalendarApp.exe] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
+    for jar: [calendar_exe_with_runtime(2)] > [CalendarApp.jar] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
+    for exe: [calendar_exe_with_runtime(2)] > [Calendar App] > [CalendarApp.exe] (DO NOT REMOVE ASSETS FOLDER TO KEEP THE DESIGN FEATURES IN THE APP)
